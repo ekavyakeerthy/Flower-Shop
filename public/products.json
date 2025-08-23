@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Rose Bouquet",
+    "price": 799,
+    "image": "rose.jpg",
+    "description": "A beautiful bouquet of fresh roses."
+  },
+  {
+    "id": 2,
+    "name": "Tulip Bliss",
+    "price": 999,
+    "image": "tulip.jpg",
+    "description": "Bright and cheerful tulip arrangement."
+  },
+  {
+    "id": 3,
+    "name": "Sunflower Bie",
+    "price": 899,
+    "image": "sunflower.jpg",
+    "description": "Sunny sunflowers to brighten your day."
+  },
+  {
+    "id": 4,
+    "name": "Cherry Blossom",
+    "price": 849,
+    "image": "cherry.jpg",
+    "description": "Delicate cherry blossoms for elegance."
+  },
+  {
+    "id": 5,
+    "name": "Lily love",
+    "price": 745,
+    "image": "lily.jpg",
+    "description": "Elegant lilies for any occasion."
+  },
+  {
+    "id": 6,
+    "name": "Orchid Elegance",
+    "price": 699,
+    "image": "orchids.jpg",
+    "description": "Exquisite orchids for a touch of class."
+  },
+  {
+    "id": 7,
+    "name": "Hibiscus Charm",
+    "price": 649,
+    "image": "hibiscus.jpg",
+    "description": "Charming hibiscus bouquet."
+  },
+  {
+    "id": 8,
+    "name": "Carnation Delight",
+    "price": 745,
+    "image": "carnation.jpg",
+    "description": "Delightful carnations in full bloom."
+  },
+  {
+    "id": 9,
+    "name": "Marguerite Daisy",
+    "price": 799,
+    "image": "margueritedaisy.jpg",
+    "description": "Fresh marguerite daisies."
+  },
+  {
+    "id": 10,
+    "name": "Iris Fantasy",
+    "price": 899,
+    "image": "iris.jpg",
+    "description": "Fantasy iris bouquet."
+  },
+  {
+    "id": 11,
+    "name": "Sweet Pea",
+    "price": 799,
+    "image": "sweetpea.jpg",
+    "description": "Sweet pea arrangement."
+  },
+  {
+    "id": 12,
+    "name": "Gerbera Joy",
+    "price": 999,
+    "image": "gerbera.jpg",
+    "description": "Joyful gerbera daisies."
+  }
+]
