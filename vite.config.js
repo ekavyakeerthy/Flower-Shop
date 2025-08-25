@@ -6,12 +6,11 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base: "./",
   plugins: [react()],
-})
-
-/*export default {
   build: {
     rollupOptions: {
       external: ['lucide-react']
     }
   }
-}*/
+})
+
+    
