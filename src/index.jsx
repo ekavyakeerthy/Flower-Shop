@@ -11,6 +11,8 @@ import Shop from "./component/Shop/Shop";
 import ProductDetails from "./component/ProductDetails/ProductDetails";
 import Cart from "./component/Cart/Cart";
 import Footer from "./component/Footer/Footer";
+import Login from "./pages/Login";
+import Register from "./pages/Register";
 
 const AppLayout = () => {
   return (
@@ -51,6 +53,14 @@ const router = createBrowserRouter([
     path: "/productdetails/:id",
     element: <ProductDetails />,
   },
+  {
+    path: "/login",
+    element: <Login />,
+  },
+  {
+    path: "/register",
+    element: <Register />,
+  }
 ]);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
